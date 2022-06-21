@@ -1,7 +1,7 @@
 
 # Adult Census Income Prediction
 
-This project contains implementation of many classifiers and how they work in different scenario. At the end I have chosed a classifier which fits well in the given data , certain hypertuning is also implemented for better outcome.
+This project contains implementation of many classifiers and how they work in different scenario. At the end I have chosed a classifier which fits well in the given data , certain hypertuning is also implemented for better outcome. Hosted at : https://income-predictor-flask.herokuapp.com/
 ____
 
 
